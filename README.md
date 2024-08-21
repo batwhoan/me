@@ -1,1 +1,2 @@
-# me
+# HELLO
+It all started when I was 12 years old. I wanted to turn on my computer to play a computer game on a beautiful summer day. But the smoke rising from that PSU changed my destiny. I understood the moment I managed to plug the PSU I removed from my old computer into my broken computer. No matter what, I had to continue my life in the world of technology. My increasing interest in software and games in high school pushed me to get a bachelor's degree in this field. And as a result of these, I am here. I am happy to get lost in codes and computers. Maybe the best decision I have ever made in my life was to repair that computer. We will wait and see.
